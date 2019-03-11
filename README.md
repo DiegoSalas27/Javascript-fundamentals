@@ -5,5 +5,7 @@ JavaScript was initially created to “make web pages alive”. The programs in 
 Today, JavaScript can execute not only in the browser, but also on the server, or actually on any device that has a special program called the JavaScript engine. The browser has an embedded engine sometimes called a “JavaScript virtual machine”.Different engines have different “codenames”. For example:
 
 *V8 – in Chrome and Opera.
+
 *SpiderMonkey – in Firefox.
-*…There are other codenames like “Trident” and “Chakra” for different versions of IE, “ChakraCore” for Microsoft Edge, “Nitro” and “SquirrelFish” for Safari, etc.
+
+*There are other codenames like “Trident” and “Chakra” for different versions of IE, “ChakraCore” for Microsoft Edge, “Nitro” and “SquirrelFish” for Safari, etc.
