@@ -13,7 +13,8 @@ Today, JavaScript can execute not only in the browser, but also on the server, o
 > How do engines work?
 > Engines are complicated. But the basics are easy.
 
-> > The engine (embedded if it’s a browser) reads (“parses”) the script.
-> > Then it converts (“compiles”) the script to the machine language.
-> > And then the machine code runs, pretty fast.
-> > The engine applies optimizations at each step of the process. It even watches the compiled script as it runs, analyzes the data that > > > flows through it, and applies optimizations to the machine code based on that knowledge. When it’s done, scripts run quite fast.
+> 1. The engine (embedded if it’s a browser) reads (“parses”) the script.
+> 2. Then it converts (“compiles”) the script to the machine language.
+> 3. And then the machine code runs, pretty fast.
+
+> The engine applies optimizations at each step of the process. It even watches the compiled script as it runs, analyzes the data that > > > flows through it, and applies optimizations to the machine code based on that knowledge. When it’s done, scripts run quite fast.
